@@ -1,0 +1,14 @@
+layout_spectrum: 0.5860215
+typography_spectrum: 0.8853046
+color:
+  saturation: 0.7235698
+  lightness: 0.435025
+  brandStrength: 0.8727599
+  brandColors:
+    - '#FFFFFF'
+    - '#00297B'
+    - '#0087BD'
+    - '#85C7E0'
+    - '#000000'
+  rhythmicContrast: 0.01713032
+name: 'Konnex '
